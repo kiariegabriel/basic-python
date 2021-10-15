@@ -1,3 +1,5 @@
+#Exe3-5
+
 from random import randint
 i=2
 print(randint(1,i))
